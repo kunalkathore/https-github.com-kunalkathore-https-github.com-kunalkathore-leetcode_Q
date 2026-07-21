@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
