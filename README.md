@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalkathore/https-github.com-kunalkathore-https-github.com-kunalkathore-leetcode_Q/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
